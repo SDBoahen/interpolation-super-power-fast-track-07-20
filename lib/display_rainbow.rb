@@ -7,7 +7,9 @@ rainbow =
 ]
 
 def
-    display_rainbow(list_to_display)
+    display_rainbow(colors)
+    
+    
     
     puts
 
